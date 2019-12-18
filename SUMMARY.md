@@ -4,5 +4,7 @@
 
 ## group1
 
+* [Change log page](group1/change-log-page.md)
 * [API page](group1/api-page.md)
+* [FAQ page](faq-page.md)
 
