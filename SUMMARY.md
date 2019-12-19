@@ -9,3 +9,7 @@
 * [FAQ page](faq-page.md)
 * [NLP](https://www.ituring.com.cn/book/2706)
 
+## docs
+
+* [README](docs/readme.md)
+
